@@ -1,5 +1,5 @@
 # Pawdoll
-Net proxy utils for iOS
+Net proxy utils for iOS, built-in lots of free servers.
 
 ## ScreenShot
 
