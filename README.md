@@ -1,7 +1,7 @@
 # Pawdoll
 Net proxy utils for iOS and Android, built-in lots of free servers.
 
-<blockquote style='text-align: center;'>Download Pawdoll in<a href='https://apps.apple.com/app/pawdoll/id6451119013'>Appstore</a> and <a href='https://play.google.com/store/apps/details?id=com.v2cross.pawdoll'>Google Play</a>.</blockquote>
+<blockquote style='text-align: center;'>Download Pawdoll in <a href='https://apps.apple.com/app/pawdoll/id6451119013'>Appstore</a> and <a href='https://play.google.com/store/apps/details?id=com.v2cross.pawdoll'>Google Play</a>.</blockquote>
 
 ## ScreenShot
 
